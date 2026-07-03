@@ -1,0 +1,23 @@
+# Packet Tracer - Conectar-se a um Servidor Web
+
+## Objetivo
+Testar a conectividade entre um host e um servidor web utilizando endereçamento IPv4.
+
+## Atividades realizadas
+- Verificação de conectividade com o comando ping.
+- Observação do envio de pacotes IP.
+- Acesso a um servidor web pelo navegador do Packet Tracer.
+- Análise da comunicação entre cliente e servidor.
+
+## O que aprendi
+- Como testar conectividade usando ping.
+- Como os endereços IPv4 identificam origem e destino.
+- A importância do gateway e do roteamento.
+- Como acessar um servidor web usando seu endereço IP.
+
+## Ferramentas
+- Cisco Packet Tracer
+- IPv4
+- ICMP (Ping)
+- HTTP
+

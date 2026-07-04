@@ -1,0 +1,126 @@
+# Packet Tracer - Conectar-se a um Servidor Web
+
+## 📌 Descrição
+
+Este laboratório foi realizado no Cisco Packet Tracer com o objetivo de compreender como um computador se comunica com um servidor web utilizando endereços IPv4.
+
+Durante a atividade, foram realizados testes de conectividade e acesso a uma página web através do endereço IP do servidor.
+
+## 🎯 Objetivos
+
+- Verificar a conectividade entre um host e um servidor web.
+- Compreender o funcionamento do protocolo ICMP (Ping).
+- Observar o uso dos endereços IPv4 na comunicação entre dispositivos.
+- Acessar uma página web utilizando o endereço IP do servidor.
+- Entender o papel do roteamento na comunicação entre redes.
+
+## 🛠️ Ferramentas Utilizadas
+
+- Cisco Packet Tracer
+- IPv4
+- ICMP (Ping)
+- HTTP
+- Navegador Web do Packet Tracer
+
+## 🚀 Etapas Realizadas
+
+### 1. Teste de Conectividade
+
+No Prompt de Comando do PC foi executado o comando:
+
+```bash
+ping 172.33.100.50
+```
+
+O objetivo foi verificar se havia comunicação entre o host e o servidor web.
+
+### 2. Acesso ao Servidor Web
+
+No navegador do Packet Tracer foi utilizado o endereço:
+
+```text
+172.33.100.50
+```
+
+Após o acesso, foi possível visualizar a página hospedada no servidor.
+
+## 📚 Conceitos Aprendidos
+
+- Endereçamento IPv4
+- Comunicação cliente-servidor
+- Encaminhamento de pacotes na rede
+- Testes de conectividade utilizando Ping
+- Funcionamento básico do protocolo HTTP
+- Importância do gateway e do roteamento
+
+## 💡 Conclusão
+
+Este laboratório permitiu compreender na prática como ocorre a comunicação entre um computador e um servidor web através de endereços IP. Também foi possível observar a utilização do comando Ping para testes de conectividade e o acesso a serviços web utilizando HTTP.
+
+## 👨‍💻 Autor
+
+Projeto desenvolvido como parte dos estudos de Redes de Computadores e Cisco Packet Tracer.
+
+# Packet Tracer - Conectar-se a um Servidor Web
+
+## 📌 Descrição
+
+Este laboratório foi realizado no Cisco Packet Tracer com o objetivo de compreender como um computador se comunica com um servidor web utilizando endereços IPv4.
+
+Durante a atividade, foram realizados testes de conectividade e acesso a uma página web através do endereço IP do servidor.
+
+## 🎯 Objetivos
+
+- Verificar a conectividade entre um host e um servidor web.
+- Compreender o funcionamento do protocolo ICMP (Ping).
+- Observar o uso dos endereços IPv4 na comunicação entre dispositivos.
+- Acessar uma página web utilizando o endereço IP do servidor.
+- Entender o papel do roteamento na comunicação entre redes.
+
+## 🛠️ Ferramentas Utilizadas
+
+- Cisco Packet Tracer
+- IPv4
+- ICMP (Ping)
+- HTTP
+- Navegador Web do Packet Tracer
+
+## 🚀 Etapas Realizadas
+
+### 1. Teste de Conectividade
+
+No Prompt de Comando do PC foi executado o comando:
+
+```bash
+ping 172.33.100.50
+```
+
+O objetivo foi verificar se havia comunicação entre o host e o servidor web.
+
+### 2. Acesso ao Servidor Web
+
+No navegador do Packet Tracer foi utilizado o endereço:
+
+```text
+172.33.100.50
+```
+
+Após o acesso, foi possível visualizar a página hospedada no servidor.
+
+## 📚 Conceitos Aprendidos
+
+- Endereçamento IPv4
+- Comunicação cliente-servidor
+- Encaminhamento de pacotes na rede
+- Testes de conectividade utilizando Ping
+- Funcionamento básico do protocolo HTTP
+- Importância do gateway e do roteamento
+
+## 💡 Conclusão
+
+Este laboratório permitiu compreender na prática como ocorre a comunicação entre um computador e um servidor web através de endereços IP. Também foi possível observar a utilização do comando Ping para testes de conectividade e o acesso a serviços web utilizando HTTP.
+
+## 👨‍💻 Autor
+
+Projeto desenvolvido como parte dos estudos de Redes de Computadores e Cisco Packet Tracer.
+

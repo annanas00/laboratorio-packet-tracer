@@ -1,1 +1,33 @@
+# Roteamento entre LANs - Cisco Packet Tracer
 
+## Objetivo
+
+Demonstrar o funcionamento do roteamento entre diferentes redes locais (LANs) utilizando um roteador.
+
+## Topologia
+
+A rede foi dividida em três departamentos:
+
+- Accounting
+- Finance
+- Sales
+
+Cada departamento possui sua própria rede IPv4 e está conectado diretamente ao roteador Edge.
+
+## Conceitos Praticados
+
+- ARP
+- ICMP (Ping)
+- DHCP
+- Gateway Padrão
+- Tabela de Roteamento
+- Comunicação entre LANs
+
+## Arquivos
+
+- topologia.pkt
+- imagens da simulação
+
+## Ferramentas
+
+- Cisco Packet Tracer

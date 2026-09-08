@@ -1,0 +1,16 @@
+# Configuração de uma LAN no Cisco Packet Tracer
+
+## Objetivo
+- Conectar dispositivos de rede e hosts.
+- Configurar IPv4.
+- Verificar conectividade local e com a Internet.
+- Utilizar os comandos ipconfig, ping e tracert.
+
+## Testes Realizados
+- Ping para a impressora (192.168.1.100).
+- Acesso ao servidor web.
+- Verificação com ipconfig.
+- Rastreamento com tracert.
+
+## Resultado
+Todos os testes foram concluídos com sucesso.
